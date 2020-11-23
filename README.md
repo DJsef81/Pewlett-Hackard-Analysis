@@ -4,10 +4,10 @@
 
 Pewlett-Hackard hired us to help out one of their employees, Bobby, with reorganizing and analyzing their outdated employee databases to get an idea of  how many of PH’s current employees are going to be eligible for retirement in the very near future. 
  
-After our initial analysis was completed, Bobby’s managers tasked us with two more assignments which would require us to further mine our previously created analyses and tables. 
+After our initial analysis was completed, Bobby’s managers tasked us with two more assignments which would require us to further mine our previously created analyses and tables. Those assignments were:
 
-	Determine the number of retiring employees per job title
-	Identify employees who are eligible to participate in a mentorship program
+* Determine the number of retiring employees per job title
+* Identify employees who are eligible to participate in a mentorship program
 
 # PURPOSE 
 
@@ -29,16 +29,29 @@ With our analysis, PH will know the number of retiring employees by their curren
 * postgresSQL
 
 # RESULTS
-(There is a bulleted list with four major points from the two analysis deliverables)
-We created
 
+### * As requested by PH, we determined the number of retiring employees per job title which can be viewed below. 
+
+## Number of Retiring Employees by Job Title
 ![](Retiring_titles.png)
 
+### * We were also asked to identify employees who are eligible to participate in a mentorship program. 
+
+## Mentorship Eligibility 
 [Click here to view our complete mentorship eligibility analysis](/Data/mentorship_eligibility.csv)
 
-We created another query in pgAdmin 4 to get a potential mentor count by job title. 
+### * After creating our mentorship eligibility data table, we also took it upon ourselves to create another query in pgAdmin 4 in oder to get a potential mentor count by job title to compare with our retiring_titles analysis. 
+
+## Potential Mentors Count by Job Title
 ![](potential_mentors_count.png)
 
+### * We also ran additional queries to determine the following. 
+
+## Number of Retiring Employees by Department
+![]
+
+## Number of Potential Mentors by Department 
+![]
 
 # SUMMARY
 
