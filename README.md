@@ -30,28 +30,30 @@ With our analysis, PH will know the number of retiring employees by their curren
 
 # RESULTS
 
-### * As requested by PH, we determined the number of retiring employees per job title which can be viewed below. 
 
 ## Number of Retiring Employees by Job Title
 ![](Retiring_titles.png)
+* As requested by PH, we determined the number of retiring employees per job title which can be viewed below. 
 
-### * We were also asked to identify employees who are eligible to participate in a mentorship program. 
 
 ## Mentorship Eligibility 
 [Click here to view our complete mentorship eligibility analysis](/Data/mentorship_eligibility.csv)
 
-### * After creating our mentorship eligibility data table, we also took it upon ourselves to create another query in pgAdmin 4 in oder to get a potential mentor count by job title to compare with our retiring_titles analysis. 
+* We were also asked to identify employees who are eligible to participate in a mentorship program. 
+
 
 ## Potential Mentors Count by Job Title
 ![](potential_mentors_count.png)
 
-### * We also ran additional queries to determine the following. 
+* After creating our mentorship eligibility data table, we also took it upon ourselves to create another query in pgAdmin 4 in oder to get a potential mentor count by job title to compare with our retiring_titles analysis. 
+
+* We also ran additional queries to determine the following. 
 
 ## Number of Retiring Employees by Department
-![]
+![](department_eligible_count.png)
 
 ## Number of Potential Mentors by Department 
-![]
+![](Num_Retiring_Emp_by_Dept.png)
 
 # SUMMARY
 
