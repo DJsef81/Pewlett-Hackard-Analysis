@@ -44,7 +44,7 @@ With our analysis, PH will know the number of retiring employees by their curren
 ![](potential_mentors_count.png)
 
 ## Number of Potential Mentors by Department 
-![](Num_Retiring_Emp_by_Dept.png)
+![](department_eligible.count.png)
 
 # SUMMARY
 * Identify employees who are eligible to participate in a mentorship program
