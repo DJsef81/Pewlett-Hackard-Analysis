@@ -44,12 +44,13 @@ With our analysis, PH will know the number of retiring employees by their curren
 ![](potential_mentors_count.png)
 
 ## Number of Potential Mentors by Department 
-![](department_eligible.count.png)
+![](department_eligible_count.png)
 
 # SUMMARY
 * Identify employees who are eligible to participate in a mentorship program
 
 After completing our analysis, we can see that the number of retiring employees per job title are:
+ 
  * Senior Engineers - 29,414
  * Senior Staff - 28,255
  * Engineers - 14,222
@@ -58,11 +59,30 @@ After completing our analysis, we can see that the number of retiring employees 
  * Assistant Engineers - 1,761
  * Managers - 2
 
-This is a grand total of 90,398 roles that will need to be filled. 
+This is a grand total of 90,398 roles that will need to be filled as the "silver tsunami" begins to make an impact. 
 
+As for identifying employees who are eligible to participate in a mentorship program, our numbers are:
+ 
+ * Senior Engineers - 344
+ * Senior Staff - 455
+ * Engineers - 518 
+ * Staff - 449
+ * Technique Leaders - 99
+ * Assistant Engineers - 75
+ 
+This is a grand total of 1,940 elgibile to participate. 
 
+The ratio of qualified, retirement-ready employees  to mentor the next generation of PH employees to positions that need to be filled is: 
 
-1,940
-(The summary addresses the two questions and contains two additional queries or tables that may provide more insight)
-* How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-* Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+ * Senior Engineers - 172:14707
+ * Senior Staff - 91:5651
+ * Engineers - 259:7111
+ * Staff - 898:12242
+ * Technique Leaders - 198:9004
+ * Assistant Engineers - 25:587
+ * Managers - N/A
+
+These ratios seem to paint the picture that there is not enough mentors to new employees. Some questions PH should ask:
+ * Can other employees NOT retiring be utilized for mentorship?
+ * What other programs can PH institute that will make the "silver tsunami" transititon more seemless?
+ 
