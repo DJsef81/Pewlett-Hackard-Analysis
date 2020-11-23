@@ -34,7 +34,7 @@ We created
 
 ![](Retiring_titles.png)
 
-[Click here to view our complete mentorship eligibility analysis](data/mentorship_eligibility.csv)
+[Click here to view our complete mentorship eligibility analysis](/Data/mentorship_eligibility.csv)
 
 We created another query in pgAdmin 4 to get a potential mentor count by job title. 
 ![](potential_mentors_count.png)
