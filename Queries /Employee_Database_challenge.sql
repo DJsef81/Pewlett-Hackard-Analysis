@@ -69,3 +69,12 @@ SELECT
  	it.title
 INTO mentorship_eligibility
 FROM initial_table AS it
+
+-- create a table that quantifies potential mentors from mentorship_eligibility.csv 
+SELECT COUNT (me.emp_no), me.title
+INTO mentor_title_count
+FROM mentorship_eligibility AS me
+GROUP by me.title
+ORDER by me.count DESC;
+
+SELECT*FROM mentor_title_count
